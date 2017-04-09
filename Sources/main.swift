@@ -1,1 +1,5 @@
-print("Hello, world!")
+import Foundation
+
+let swiftyBird = SwiftyBird(apiToken: "API-TOKEN")
+
+RunLoop.main.run()

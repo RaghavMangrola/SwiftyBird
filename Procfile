@@ -1,0 +1,1 @@
+swiftybird: .build/release/SwiftyBird

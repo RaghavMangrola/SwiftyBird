@@ -1,7 +1,7 @@
 import Foundation
 
 var apiToken: String?
-// apiToken = "API-TOKEN"
+//apiToken = "API-TOKEN"
 if let apiToken = apiToken {
   let swiftyBird = SwiftyBird(apiToken: apiToken)
   RunLoop.main.run()

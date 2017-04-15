@@ -1,5 +1,6 @@
-#SwiftyBird
-Project Goals:
+# SwiftyBird
 
-1. welcome new member.
-2. answer how get resourced for someone new to swift
+## Project Goals:
+
+1. Welcome new member.
+2. Answer how get resourced for someone new to swift
